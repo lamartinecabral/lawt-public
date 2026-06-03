@@ -1,6 +1,6 @@
-# Minicode
+# LAWT - Local AI With Tools
 
-Sorry, guys. The Minicode project is currently private.
+Sorry, guys. The LAWT project is currently private.
 
 But it looks like this
 
