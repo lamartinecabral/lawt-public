@@ -1,7 +1,5 @@
 # LAWT - Local AI With Tools
 
-Sorry, guys. The LAWT project is currently private.
-
-But it looks like this
+The repository is now public, [take a look](https://github.com/lamartinecabral/lawt)
 
 ![lawt screenshot](./lawt.png)
